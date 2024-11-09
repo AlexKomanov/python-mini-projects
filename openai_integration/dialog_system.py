@@ -9,7 +9,7 @@ try:
     chat_log = []
     system_prompt = {
         "role": "system",
-        "content": "You're an experienced QA engineer. And You're providing a clear and structured answers."
+        "content": "You're an experienced JS Developer. And You're providing a clear and structured answers."
     }
     chat_log.append(system_prompt)
     while True:
